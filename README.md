@@ -11,3 +11,5 @@ In this mission from the Dataquest platform, the main goal is to learn the basic
 - correlating missing values: to find out if there's any pattern among the missing values.
 
 The given dataset is comprised of vehicle collisions in New York City from the year 2018 in a csv file and the project is set up on a Jupyter Notebook.
+
+Click [here](https://github.com/clayamakita/missing_data_vehicles_collisions) to check it out.
