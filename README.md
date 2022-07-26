@@ -23,3 +23,9 @@ Its goal is to showcase how to perform data exploration using SQL on a database 
 The skills used in this project include: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, and Creating Views.
 
 Click [here](https://github.com/clayamakita/project_1_sql_data_exploration) to check it out.
+
+### Tableau - Data Visualization Project
+
+This project used a [dataset from Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) which presents data about customers purchases through different channels and use of discounts from marketing campaigns.
+
+Click [here](https://public.tableau.com/views/CustomerAnalysisfromMarketingCampaigns/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to check it out.
