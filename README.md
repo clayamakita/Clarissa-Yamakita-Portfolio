@@ -1,8 +1,8 @@
 ## Welcome to Clarissa Yamakita's Portfolio
 
-Here are some of the projects developed so far.
+Here are some of projects showcasing skills on Python, SQL and Tableau.
 
-### Project from Dataquest: Working with Missing Data
+### Python - Project from Dataquest: Working with Missing Data
 
 In this mission from the Dataquest platform, the main goal is to learn the basics on how to handle missing data without having to drop rows and columns. The techniques used include: 
 
@@ -13,3 +13,13 @@ In this mission from the Dataquest platform, the main goal is to learn the basic
 The given dataset is comprised of vehicle collisions in New York City from the year 2018 in a csv file and the project is set up on a Jupyter Notebook.
 
 Click [here](https://github.com/clayamakita/missing_data_vehicles_collisions) to check it out.
+
+### SQL Data Exploration
+
+This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM).
+
+Its goal is to showcase how to perform data exploration using SQL on a database with COVID-19 cases, deaths and vaccination worlwide and by country. The dataset was downloaded from [Our World in Data](https://ourworldindata.org/covid-deaths) on August 16, 2021, and contains data until August 15, 2021. The notebook with the analysis and thought process are on a file called [Portfolio Project 1 - SQL Data Exploration.ipynb](https://github.com/clayamakita/project_1_sql_data_exploration/blob/main/Portfolio%20Project%201%20-%20SQL%20Data%20Exploration.ipynb).
+
+The skills used in this project include: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, and Creating Views.
+
+Click [here](https://github.com/clayamakita/project_1_sql_data_exploration) to check it out.
