@@ -28,4 +28,4 @@ Click [here](https://github.com/clayamakita/project_1_sql_data_exploration) to c
 
 This project used a [dataset from Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) which presents data about customers purchases through different channels and use of discounts from marketing campaigns.
 
-Click [here](https://public.tableau.com/views/CustomerAnalysisfromMarketingCampaigns/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to check it out.
+Click [here](https://public.tableau.com/views/CustomerAnalysisfromMarketingCampaigns/ClientsProfile?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to check it out.
