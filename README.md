@@ -13,7 +13,6 @@ In this mission from the Dataquest platform, the main goal is to learn the basic
 The given dataset is comprised of vehicle collisions in New York City from the year 2018 in a csv file and the project is set up on a Jupyter Notebook.
 
 Click [here](https://github.com/clayamakita/missing_data_vehicles_collisions) to check it out.
-Click <a href="https://github.com/clayamakita/missing_data_vehicles_collisions" target="_blank">here</a> to check it out.
 
 ### SQL Data Exploration
 
