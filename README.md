@@ -24,8 +24,14 @@ The skills used in this project include: Joins, CTE's, Temp Tables, Windows Func
 
 Click [here](https://github.com/clayamakita/project_1_sql_data_exploration) to check it out.
 
-### Tableau - Data Visualization Project
+### Tableau - Data Visualization Project: Airbnb 2016 Listings in Seattle
 
-This project used a [dataset from Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) which presents data about customers purchases through different channels and use of discounts from marketing campaigns.
+This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=zOR0-nygfDE).
+
+It displays data from Airbnb listings in the city of Seattle in 2016. The dashboard is available [here](https://public.tableau.com/app/profile/clarissa.yamakita/viz/Airbnb2016ListingsinSeattle/Dashboard).
+
+### Tableau - Data Visualization Project: Marketing Campaigns
+
+This project used a [dataset from Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) which presents data about customers purchases through different channels and use of discounts from marketing campaigns. This dashboard is a work in progress.
 
 Click [here](https://public.tableau.com/views/CustomerAnalysisfromMarketingCampaigns/ClientsProfile?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to check it out.
