@@ -1,6 +1,10 @@
 ## Welcome to Clarissa Yamakita's Portfolio
 
-Here are some projects showcasing skills on Python, SQL and Tableau.
+Here are some projects showcasing skills on effective communication, Python, SQL and Tableau.
+
+### Article on LinkedIn: Using data to nudge people
+
+In this article [“What is the one thing that you keep putting off again and again until tomorrow?”](https://tinyurl.com/ArticleClarissa) I talk about how I was able to use simple data to nudge people into avoiding procrastination. 
 
 ### Python - Project from Dataquest: Working with Missing Data
 
