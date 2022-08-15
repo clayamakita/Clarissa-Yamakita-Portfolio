@@ -2,10 +2,12 @@
 
 Here are some projects showcasing skills on effective communication, Python, SQL and Tableau.
 
+------------
 ### Article on LinkedIn: Using data to nudge people
 
 In this article [“What is the one thing that you keep putting off again and again until tomorrow?”](https://tinyurl.com/ArticleClarissa) I talk about how I was able to use simple data to nudge people into avoiding procrastination. 
 
+------------
 ### Python - Project from Dataquest: Working with Missing Data
 
 In this mission from the Dataquest platform, the main goal is to learn the basics on how to handle missing data without having to drop rows and columns. The techniques used include: 
@@ -18,6 +20,7 @@ The given dataset is comprised of vehicle collisions in New York City from the y
 
 Click [here](https://github.com/clayamakita/missing_data_vehicles_collisions) to check it out.
 
+------------
 ### SQL Data Exploration
 
 This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM).
@@ -28,12 +31,14 @@ The skills used in this project include: Joins, CTE's, Temp Tables, Windows Func
 
 Click [here](https://github.com/clayamakita/project_1_sql_data_exploration) to check it out.
 
+------------
 ### Tableau - Data Visualization Project: Airbnb 2016 Listings in Seattle
 
 This project was based on and inspired by a [video from Alex the Analyst](https://www.youtube.com/watch?v=zOR0-nygfDE).
 
 It displays data from Airbnb listings in the city of Seattle in 2016. The dashboard is available [here](https://public.tableau.com/app/profile/clarissa.yamakita/viz/Airbnb2016ListingsinSeattle/Dashboard).
 
+------------
 ### Tableau - Data Visualization Project: Marketing Campaigns
 
 This project used a [dataset from Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) which presents data about customers purchases through different channels and use of discounts from marketing campaigns. This dashboard is a work in progress.
