@@ -1,6 +1,6 @@
 ## Welcome to Clarissa Yamakita's Portfolio
 
-Here are some projects showcasing skills on effective communication, Python, SQL and Tableau.
+Here are some projects showcasing skills on effective communication, Python, SQL, and Tableau.
 
 ------------
 ### Article on LinkedIn: Using data to nudge people
