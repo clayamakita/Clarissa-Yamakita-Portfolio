@@ -24,7 +24,7 @@ For this project, we covered the following steps:
     - Bivariate Clustering
     - Multivariate Clustering
 
-Click [here]([https://github.com/clayamakita/missing_data_vehicles_collisions](https://github.com/clayamakita/customer_segmentation_project_kmeans)) to check it out.
+Click [here](https://github.com/clayamakita/missing_data_vehicles_collisions](https://github.com/clayamakita/customer_segmentation_project_kmeans) to check it out.
 
 ------------
 ### Python - Project from Dataquest: Working with Missing Data
