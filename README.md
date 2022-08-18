@@ -8,6 +8,25 @@ Here are some projects showcasing skills on effective communication, Python, SQL
 In the article [“What is the one thing that you keep putting off again and again until tomorrow?”](https://tinyurl.com/ArticleClarissa), I talk about how I was able to use simple data to nudge people into avoiding procrastination. 
 
 ------------
+### Python - Customer Segmentation Project: K-Means Clustering
+
+This is a project based on the article [Customer Segmentation using Python](https://medium.com/nerd-for-tech/customer-segmentation-using-python-e56c2b1a4c73) and the video [Data Analyst Portfolio Project #2: Python Customer Segmentation & Clustering](https://www.youtube.com/watch?v=iwUli5gIcU0).
+
+__Customer segmentation__ is the process of dividing customers into groups in order to optimize a company's marketing strategy and maximize the value of each customer.
+
+For this project, we covered the following steps:
+
+1. Exploratory Data Analysis (EDA) of the dataset
+    - Univariate Analysis
+    - Bivariate and Multivariate Analysis
+2. Segmentation using the K-Means algorithm
+    - Univariate Clustering
+    - Bivariate Clustering
+    - Multivariate Clustering
+
+Click [here]([https://github.com/clayamakita/missing_data_vehicles_collisions](https://github.com/clayamakita/customer_segmentation_project_kmeans)) to check it out.
+
+------------
 ### Python - Project from Dataquest: Working with Missing Data
 
 In this mission from the Dataquest platform, the main goal is to learn the basics on how to handle missing data without having to drop rows and columns. The techniques used include: 
