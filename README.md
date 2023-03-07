@@ -8,6 +8,11 @@ Here are some projects showcasing skills on effective communication, Python, SQL
 In the article [“What is the one thing that you keep putting off again and again until tomorrow?”](https://tinyurl.com/ArticleClarissa), I talk about how I was able to use simple data to nudge people into avoiding procrastination. 
 
 ------------
+### Python - Webscraping data
+
+This is a current project (March 2023) where I've been defining functions and a workflow to web scrape data from supermarket websites to ultimately analyze the data and find the best offers. The project is available [here](https://github.com/clayamakita/webscraping_project_01).
+
+------------
 ### Python - Customer Segmentation Project: K-Means Clustering
 
 This is a project based on the article [Customer Segmentation using Python](https://medium.com/nerd-for-tech/customer-segmentation-using-python-e56c2b1a4c73) and the video [Data Analyst Portfolio Project #2: Python Customer Segmentation & Clustering](https://www.youtube.com/watch?v=iwUli5gIcU0).
